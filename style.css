@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Simonetta);
+@import url(http://fonts.googleapis.com/css?family=Petit+Formal+Script);
+@import url(http://fonts.googleapis.com/css?family=Glegoo|Cutive+Mono|Pompiere|Armata|Kelly+Slab|Monda|Graduate|Molengo|Stint+Ultra+Expanded);
+@import url(http://fonts.googleapis.com/css?family=Kotta+One);
+@import url(http://fonts.googleapis.com/css?family=Bubbler+One);
+
+/*font-family: 'Glegoo', serif;
+font-family: 'Cutive Mono', serif;
+font-family: 'Pompiere', cursive;
+font-family: 'Armata', sans-serif;
+font-family: 'Kelly Slab', cursive;
+font-family: 'Monda', sans-serif;
+font-family: 'Graduate', cursive;
+font-family: 'Molengo', sans-serif;
+font-family: 'Stint Ultra Expanded', cursive;
+font-family: 'Kotta One', serif;
+font-family: 'Bubbler One', sans-serif;
+*/
+
+.title1 {font-family: 'Graduate', cursive; font-size:18px; color:#FFF; text-decoration:none;}
+.title1:hover {color:#FFF;}
+.title1-current {font-family: 'Graduate', cursive; font-size:18px; color:#00ccff; text-decoration:none;}
+.vl {color:#333; font-family: 'Graduate', cursive; font-size:16px; padding-left:15px; padding-right:15px;}
+.vl2 {color:#333; font-family: 'Graduate', cursive; font-size:16px; padding-left:5px; padding-right:5px;}
+.title2 {font-family: 'Monda', sans-serif; font-size:36px; color:#FFF; text-decoration:none; font-weight:bold;}
+.title22 {font-family: 'Monda', sans-serif; font-size:32px; color:#aad7e0; text-decoration:none;}
+.content1 {font-family: 'Monda', sans-serif; font-size:14px; color:#7badb7; text-decoration:none;}
+.content2 {font-family: 'Monda', sans-serif; font-size:14px; color:#FFF; text-decoration:none;}
+.content3 {font-family: 'Monda', sans-serif; font-size:14px; color:#000; text-decoration:none; text-align:justify;}
+.title3 {font-family: 'Monda', sans-serif; font-size:16px; color:#333; text-decoration:none;}
+.title33 {font-family: 'Monda', sans-serif; font-size:16px; color:#C00; text-decoration:none;}
+.content4 {font-family: 'Monda', sans-serif; font-size:14px; color:#000; text-decoration:none;}
+
+.title4 {font-family: 'Monda', sans-serif; font-size:36px; color:#333; text-decoration:none; font-weight:bold;}
+.title44 {font-family: 'Monda', sans-serif; font-size:32px; color:#04a0bf; text-decoration:none;}
+.bx {display:block; width:200px; border-radius:16px; border-color:#CCC; border-style:solid; border-width:2px;}
+.title5 {font-family: 'Monda', sans-serif; font-size:16px; color:#04a0bf; text-decoration:none; line-height:35px;}
+.titlecrnt5 {font-family: 'Monda', sans-serif; font-size:16px; color:#000; text-decoration:none; line-height:35px;}
+.img {border-style:solid; border-width:2px; border-radius:8px; border-color:#CCC;}
+.more_btn {
+  background: #90c3cd;
+  background-color: #8ec1cb;
+  background-image: -moz-linear-gradient(top, #a4d7e1, #6ea1ab);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#a4d7e1), to(#6ea1ab));
+  background-image: -webkit-linear-gradient(top, #a4d7e1, #6ea1ab);
+  background-image: -o-linear-gradient(top, #a4d7e1, #6ea1ab);
+  background-image: linear-gradient(to bottom, #a4d7e1, #6ea1ab);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffa4d7e1', endColorstr='#ff6ea1ab', GradientType=0);
+  padding: 0 15px;
+  text-decoration:none;
+  color: #fff;
+  font: 14px/41px 'Monda', sans-serif;
+  margin-top: 15px;
+}
+.more_btn:hover {
+  color: #069;
+  background: #eee;
+}
+
+.prdct {
+  background-color: #8ec1cb;
+  padding: 0 15px;
+  text-decoration:none;
+  border-radius:8px;
+  color: #fff;
+  font: 14px/41px 'Monda', sans-serif;
+  margin-top: 15px;
+}
